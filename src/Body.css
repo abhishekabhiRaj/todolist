@@ -1,0 +1,14 @@
+*{
+    background-color: #F7F7F7;
+}
+.body{
+    width: 50%;
+    height: 100vh;
+    background-color: #F7F7F7;
+}
+
+.body .body__image > img{
+     width: 80%;
+     height: 100vh;
+     margin-left: 10%;
+}
